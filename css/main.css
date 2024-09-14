@@ -1,0 +1,66 @@
+.Home{
+    background-image: url(../Images/header-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.list{
+    margin-left: 50%;
+}
+
+.layer{
+    height:92vh;
+}
+
+.contant{
+    padding-top:10% ;
+}
+
+.forms{
+    margin-bottom: 20px;
+}
+
+.chlayer{
+ border: 1px solid rgb(97, 94, 94);
+}
+
+.item{
+    margin: 40px;
+}
+
+.back-img{
+    background-image: url(../Images/callaction-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.back-img .text{
+    font-size: 12px;
+    
+    text-align: center;
+}
+
+.back-img .btn-2{
+    background-color: transparent;
+    border: 1px solid orange;
+    color: orange;
+    font-size: 10px;
+    width: 15%;
+}
+
+.back-img .back-ground{
+    background-color:rgb(17, 17, 44);
+    opacity: 75%;
+}
+
+.footer{
+    background-color: rgb(3, 3, 35);
+}
+
+.last{
+    width: 20%;
+}
